@@ -19,3 +19,4 @@ namespace QLKhamChuaBenh
         }
     }
 }
+//Thay doi code <3 
